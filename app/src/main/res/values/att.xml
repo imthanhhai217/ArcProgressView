@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ArcView">
+        <attr name="striped" format="boolean" />
+        <attr name="animated" format="boolean" />
+        <attr name="android:layout_width"/>
+        <attr name="android:layout_height"/>
+        <attr name="arc_progress_color" format="integer"/>
+        <attr name="arc_progress_background" format="integer"/>
+        <attr name="arc_padding" format="dimension"/>
+        <attr name="arc_progress_width" format="dimension"/>
+        <attr name="arc_background_width" format="dimension"/>
+        <attr name="arc_progress" format="integer" />
+        <attr name="arc_max_progress" format="integer" />
+        <attr name="showPercentage" format="boolean" />
+        <attr name="roundedCorners" format="boolean" />
+    </declare-styleable>
+</resources>
